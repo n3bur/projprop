@@ -1,0 +1,16 @@
+categoriaAmbPagines cat CP pagina3 page 
+categoriaAmbPagines cat CP pagina2 page 
+categoriaAmbPagines cat CP pagina4 page 
+categoriaAmbPagines cat CP pagina1 page 
+categoriaAmbSubcategories cat CsubC subcategoria4 cat 
+categoriaAmbSubcategories cat CsubC subcategoria3 cat 
+categoriaAmbSubcategories cat CsubC subcategoria1 cat 
+categoriaAmbSubcategories cat CsubC subcategoria2 cat 
+categoriaAmbSubcategoriesISupercategories cat CsubC subcategoria1 cat 
+categoriaAmbSubcategoriesISupercategories cat CsubC subcategoria2 cat 
+categoriaAmbSupercategories cat CsupC supercategoria1 cat 
+categoriaAmbSupercategories cat CsupC supercategoria3 cat 
+categoriaAmbSupercategories cat CsupC supercategoria2 cat 
+categoriaAmbSupercategories cat CsupC supercategoria4 cat 
+categoriaAmbSubcategoriesISupercategories cat CsupC supercategoria1 cat 
+categoriaAmbSubcategoriesISupercategories cat CsupC supercategoria2 cat 

@@ -1,0 +1,15 @@
+a	cat	CsupC	b	cat
+a	cat	CsupC	c	cat
+b	cat	CsupC	c	cat
+a	cat	CsupC	biologically_based_therapies cat
+medicinal_herbs_and_fungi	cat	CsupC	drugs	cat
+medicinal_herbs_and_fungi	cat	CsupC	biologically_based_therapies	cat
+medicinal_herbs_and_fungi	cat	CsupC	herbalism	cat
+medicinal_herbs_and_fungi	cat	CsupC	pharmacognosy	cat
+immune_system_disorders	cat	CsupC	immunology	cat
+immune_system_disorders	cat	CsupC	diseases_and_disorders_by_system	cat
+a	cat	CP	cutaneous_small-vessel_vasculitis	page
+b	cat	CP	aagenaes_syndrome	page
+c	cat	CP	heavy_chain_disease	page
+d	cat	CP	gluten-sensitive_idiopathic_neuropathies	page
+e	cat	CP	extracutaneous_mastocytoma	page

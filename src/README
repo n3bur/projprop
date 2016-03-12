@@ -1,0 +1,4 @@
+per compilar per exemple DriverGrapher:
+javac ./drivers/DriverGrapher.java -classpath .:./*
+El fitxer .class es generara a la carpeta que estigui el .java
+(en aquest cas, la carpeta drivers)
